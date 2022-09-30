@@ -8,10 +8,10 @@
     "mandante" :{
     "nome" : " Brasil",
     "forca" : 5 ,
-    "imagem" : " TODO " 
+    "imagem" : " https://www.bandeirasnacionais.com/data/flags/normal/br.png " 
     },
     "visitante" :{
-    "nome" : " Argentina " ,
+    "nome" : " https://www.bandeirasnacionais.com/data/flags/normal/ar.png " ,
     "forca" : 5 ,
     "imagem" : " TODO "
     }
